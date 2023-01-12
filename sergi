@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx MV LLG TV
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx2
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx2 MV LLG PROG
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx3
@@ -12,7 +12,7 @@ acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx4
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx5
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx5 DZN LLG
 acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
