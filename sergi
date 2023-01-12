@@ -1,18 +1,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx MV LLG TV
-acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx1 DAZN1 1080
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx2 MV LLG PROG
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx2 DAZN1 720
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx3
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx3 DAZN2 720
+acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx4
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx4 Supercopa 1080
+acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx5 DZN LLG
-acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx5 Supercopa 1080
+acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx6 Supercopa 1080
+acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx7 Supercopa 720
+acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
