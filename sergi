@@ -20,3 +20,11 @@ acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx7 Supercopa 720
 acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx8 LaLiga TV BAR 1080
+acestream://01b333b9369c662775902638ef8cffac346a0f61
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx9 LaLiga TV BAR 720
+acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
+
+
