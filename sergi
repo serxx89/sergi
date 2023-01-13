@@ -24,44 +24,50 @@ acestream://d83a3242e10ecffc31a16a02890de199a65dd8d9
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx8 DAZN LaLiga HD
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx9 LaLiga TV BAR 1080
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx9 M LaLiga 720
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx10 M LaLiga 2 720
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx11 LaLiga TV BAR 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx10 LaLiga TV BAR 720
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx12 LaLiga TV BAR 720
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx11 LaLiga SmartBank 720
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx13 LaLiga SmartBank 720
 acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx12 LaLiga SmartBank 2 720
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx14 LaLiga SmartBank 2 720
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx13 LaLiga SmartBank 3 1080
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx15 LaLiga SmartBank 3 1080
 acestream://1104426e14b649eb23fee16698768544285de478
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx14 DAZN1 1080
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx16 DAZN1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx15 DAZN1 720
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx17 DAZN1 720
 acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx16 DAZN2 720
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx18 DAZN2 720
 acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx17 DAZN3
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx19 DAZN3
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx18 DAZN4
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx20 DAZN4
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx19 Supercopa 1080
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx21 Supercopa 1080
 acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx20 Supercopa 1080
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx22 Supercopa 1080
 acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx21 Supercopa 1080
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx23 Supercopa 1080
 acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx22 Supercopa 720
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #serXx24 Supercopa 720
 acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
