@@ -1,61 +1,82 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #05 LaLiga TV BAR 1080
-acestream://01b333b9369c662775902638ef8cffac346a0f61
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #01 Liga de Campeones 4 1080
+acestream://297fab10d7364ca1991fa43fcff469573688ce7a
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #06 LaLiga TV BAR 720
-acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #02 Liga de Campeones 4 720
+acestream://1a1b528109edead1904e3dbff575637a452dd1fa
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #07 M LaLiga 720
-acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #03 Liga de Campeones 3 1080
+acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #08 DAZN LaLiga 1080
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #04 Liga de Campeones 3 720
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #09 DAZN LaLiga 1080
-acestream://1124d4366348b76a755710c8d0d5728e39d0095c
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #05 Liga de Campeones 1080
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #10 DAZN LaLiga 720
-acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #11 DAZN LaLiga 720
-acestream://d83a3242e10ecffc31a16a02890de199a65dd8d9
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #12 DAZN LaLiga HD
-acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #13 M LaLiga 2 720
-acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #14 DAZN1 1080
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #15 DAZN1 720
-acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #16 DAZN2 720
-acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #17 DAZN3
-acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #18 DAZN4
-acestream://149a38e333de920753f1388c43247283bdb05f5b
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #19 Vam0s 1080
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #20 Vam0s 720
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #21 Liga de Campeones 1 720
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #06 Liga de Campeones 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #22 LaLiga SmartBank 720
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #07 DAZN2 1080
+acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #08 DAZN2 720
+acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #09 DAZN1 1080
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #10 DAZN1 720
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #11 LaLiga TV BAR 1080
+acestream://01b333b9369c662775902638ef8cffac346a0f61
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #12 LaLiga TV BAR 720
+acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #13 M LaLiga 720
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #14 DAZN LaLiga 1080
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #15 DAZN LaLiga 1080
+acestream://1124d4366348b76a755710c8d0d5728e39d0095c
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #16 DAZN LaLiga 720
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #17 DAZN LaLiga 720
+acestream://d83a3242e10ecffc31a16a02890de199a65dd8d9
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #18 DAZN LaLiga HD
+acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #19 M LaLiga 2 720
+acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #20 DAZN3
+acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #21 DAZN4
+acestream://149a38e333de920753f1388c43247283bdb05f5b
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #22 Vam0s 1080
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #23 Vam0s 720
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #24 Liga de Campeones 1 720
+acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #25 LaLiga SmartBank 720
 acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #23 LaLiga SmartBank 2 720
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #26 LaLiga SmartBank 2 720
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #24 LaLiga SmartBank 3 1080
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #27 LaLiga SmartBank 3 1080
 acestream://1104426e14b649eb23fee16698768544285de478
