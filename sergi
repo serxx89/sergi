@@ -80,3 +80,12 @@ acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #27 LaLiga SmartBank 3 1080
 acestream://1104426e14b649eb23fee16698768544285de478
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #28 DAZN F1 1080
+acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #29 DAZN F1 1080
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #30 DAZN F1 720
+acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
