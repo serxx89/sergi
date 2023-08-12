@@ -210,10 +210,10 @@ acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #100 NBA
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #101 Movistar 0
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #101 M. 0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #102 Movistar la liga 1080 multiaudio
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #102 M. la liga 1080 multiaudio
 acestream://731428b18eb656121990261c1b072b13f7caef30
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", #103 Dazn la liga 1080 multiaudio
